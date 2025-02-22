@@ -11,9 +11,12 @@
 <h3>Link da API do projeto <a href="https://github.com/lucasfgaldinos/api-cadastro-de-usuarios">aqui</a></h3>
 
 <div>
+  <p>Prints Desktop ⬇️</p>
   <img height="300" src="./src/assets/prints/print-desktop-home.png" alt="Print da página Home da aplicação em Desktop" />
   <img height="300" src="./src/assets/prints/print-desktop-register.png" alt="Print da página Cadastrar da aplicação em Desktop" />
   <img height="300" src="./src/assets/prints/print-desktop-users.png" alt="Print da página Lista de Usuários da aplicação em Desktop" />
+  <br/>
+  <p>Prints Mobile ⬇️</p>
   <img height="300" src="./src/assets/prints/print-mobile-home.png" alt="Print da página Home da aplicação em Mobile" />
   <img height="300" src="./src/assets/prints/print-mobile-register.png" alt="Print da página Home da aplicação em Mobile" />
   <img height="300" src="./src/assets/prints/print-mobile-users.png" alt="Print da página Home da aplicação em Mobile" />
